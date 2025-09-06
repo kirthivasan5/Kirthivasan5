@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">👋 Hi, I'm Kirthivasan<br><br>🎯 Certified Data Scientist | B.E. EEE Engineer | Python Automator | ML Explorer<br><br>Welcome to my GitHub! I'm a methodical and adaptive engineer with a B.E. in Electrical & Electronics Engineering, passionate about solving real-world problems through both hardware innovation and data-driven insights. From building autonomous robots for landmine detection to crafting predictive models and automating workflows, I thrive at the intersection of engineering and analytics.</h1>
+<h1 align="left">👋 Hi, I'm Kirthivasan<br><br>🎯 Certified Data Scientist | B.E. EEE Engineer | ML Explorer<br><br>Welcome to my GitHub! I'm a methodical and adaptive engineer with a B.E. in Electrical & Electronics Engineering, passionate about solving real-world problems through both hardware innovation and data-driven insights. From building autonomous robots for landmine detection to crafting predictive models and automating workflows, I thrive at the intersection of engineering and analytics.</h1>
 
 ###
 
